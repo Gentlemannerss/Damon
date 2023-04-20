@@ -2,7 +2,7 @@
 
 Ik ben Damon van Bergen, een student aan de [Novi Hogeschool](https://www.novi.nl/) in Utrecht.
 
-Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) leer ik in 6 maanden tijd het landschap van een front & back end developmeer.
+Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) leer ik in 6 maanden tijd het landschap van een front & back end developer.
 Hieronder vind u een actueel overzicht van mijn leertraject:
 
 ### Afgeronde onderdelen:
