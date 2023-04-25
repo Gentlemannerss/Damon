@@ -6,7 +6,7 @@ Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/
 Hieronder vind u een actueel overzicht van mijn leertraject:
 
 ### Afgeronde onderdelen:
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,github,postgres,postman,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,idea,java,github,postgres,postman,nodejs)](https://skillicons.dev)
 
 ### Op dit moment aan het leren:
 [![My Skills](https://skillicons.dev/icons?i=js,figma,spring,php)](https://skillicons.dev)
