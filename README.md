@@ -9,10 +9,10 @@ Hieronder vind u een actueel overzicht van mijn leertraject:
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,idea,java,github,postgres,postman,nodejs)](https://skillicons.dev)
 
 ### Op dit moment aan het leren:
-[![My Skills](https://skillicons.dev/icons?i=js,figma,spring,php,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,figma,spring,react)](https://skillicons.dev)
 
 ### In het vooruitzicht:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,php,wordpress)](https://skillicons.dev)
 
 
 Lijkt het u leuk om kennis te maken? Stuur mij gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/damonvanbergen/).
